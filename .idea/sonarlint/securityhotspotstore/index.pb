@@ -21,8 +21,6 @@ _
 Lsrc/main/webapp/WEB-INF/views/certification/familyRelationCertification.html,a/8/a819ef7ac458ebf7aa9f137d36b507cd4c0140f5
 X
 (src/main/webapp/WEB-INF/views/login.html,5/e/5eaebc15380abb9d9da8ef190e712fd216798022
-X
-(src/main/webapp/WEB-INF/views/index.html,0/a/0aed5dd3c6ebbaaa505963ae5e56d6ff6d4a9158
 Y
 )src/main/webapp/WEB-INF/views/logout.html,1/f/1f738b3bf46ab9f151de13d7797f34bf679b2070
 X
@@ -113,8 +111,6 @@ jsrc/main/java/com/nhnacademy/jpa/service/birthDeathReportResident/BirthDeathRep
 ^src/main/java/com/nhnacademy/jpa/service/familyRelationship/FamilyRelationshipServiceImpl.java,5/4/5471c14b34ee6e6ff477fcef4f0df23bf82431fe
 v
 Fsrc/main/java/com/nhnacademy/jpa/service/CustomUserDetailsService.java,e/b/ebdf9ffdfa30607944fc4c54e07872f91d2e1ec5
-i
-9src/main/java/com/nhnacademy/jpa/SecurityInitializer.java,4/8/4838e0749364465c136e5edfbceb6f43062a1852
 g
 7src/main/java/com/nhnacademy/jpa/WebAppInitializer.java,4/9/4923c55cc2fd90185a63fff96b79203976c82703
 f
@@ -175,8 +171,6 @@ h
 Psrc/test/java/com/nhnacademy/jpa/repository/resident/ResidentRepositoryTest.java,7/c/7c8f7ca0989de20d78c4685a80c1f0b08f3511b6
 R
 "http/OriginalResidentRegister.http,d/4/d4c1a8aea3cd3f9dc8be82d15d7f260da4883bcb
-B
-http/Resident.http,6/4/64283921d53172cc18d8b40535a627bfb382e409
 †
 Vsrc/main/java/com/nhnacademy/jpa/controller/restController/ResidentRestController.java,3/7/37e27d9dc67030d3500046903af52cbe677e1cfe
 
@@ -227,10 +221,6 @@ Zsrc/main/java/com/nhnacademy/jpa/service/certificateIssue/CertificateIssueServi
 Ksrc/main/java/com/nhnacademy/jpa/controller/CertificateIssueController.java,2/0/204c817214d0044a0356276e17e97538f0804636
 ]
 -src/main/webapp/WEB-INF/views/userFamily.html,c/c/ccb6658202ef7808def5953dc1e34c95d08aefcb
-”
-dsrc/main/java/com/nhnacademy/jpa/repository/familyRelationship/FamilyRelationshipRepositoryImpl.java,b/8/b8b8cae238fd85798ff01e703b0306ee21bdceb9
-k
-;src/main/java/com/nhnacademy/jpa/config/SecurityConfig.java,6/e/6e51e2583caba18b73cdb77b43eaae121df226c6
 f
 6src/main/java/com/nhnacademy/jpa/config/JpaConfig.java,c/3/c351847c5a162bc00b47c4e4993a273647d018bb
 z

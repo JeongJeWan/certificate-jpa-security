@@ -24,8 +24,6 @@ Y
 _
 /src/main/webapp/WEB-INF/views/residentView.html,8/3/83d7198aff0fe0dc51dfa9155ee591118592ba74
 X
-(src/main/webapp/WEB-INF/views/index.html,0/a/0aed5dd3c6ebbaaa505963ae5e56d6ff6d4a9158
-X
 (src/main/webapp/WEB-INF/views/error.html,e/2/e22cf14c549946595a718701d9bfb6064ca670fa
 _
 /src/main/webapp/WEB-INF/views/residentList.html,6/f/6fe79087b2bbe522064f124a6ac6229ebe249656
@@ -113,8 +111,6 @@ jsrc/main/java/com/nhnacademy/jpa/service/birthDeathReportResident/BirthDeathRep
 ^src/main/java/com/nhnacademy/jpa/service/familyRelationship/FamilyRelationshipServiceImpl.java,5/4/5471c14b34ee6e6ff477fcef4f0df23bf82431fe
 v
 Fsrc/main/java/com/nhnacademy/jpa/service/CustomUserDetailsService.java,e/b/ebdf9ffdfa30607944fc4c54e07872f91d2e1ec5
-i
-9src/main/java/com/nhnacademy/jpa/SecurityInitializer.java,4/8/4838e0749364465c136e5edfbceb6f43062a1852
 g
 7src/main/java/com/nhnacademy/jpa/WebAppInitializer.java,4/9/4923c55cc2fd90185a63fff96b79203976c82703
 f
@@ -171,8 +167,6 @@ h
 Wsrc/main/java/com/nhnacademy/jpa/controller/restController/HouseholdRestController.java,9/7/97e50183de257ea89b405157385b5a5af27ca318
 R
 "http/OriginalResidentRegister.http,d/4/d4c1a8aea3cd3f9dc8be82d15d7f260da4883bcb
-B
-http/Resident.http,6/4/64283921d53172cc18d8b40535a627bfb382e409
 †
 Vsrc/main/java/com/nhnacademy/jpa/controller/restController/ResidentRestController.java,3/7/37e27d9dc67030d3500046903af52cbe677e1cfe
 
@@ -227,13 +221,9 @@ e
 5src/main/java/com/nhnacademy/jpa/entity/Resident.java,0/0/00ecbdc1062a1f9ef0462e84ba99af6077c92ceb
 ]
 -src/main/webapp/WEB-INF/views/userFamily.html,c/c/ccb6658202ef7808def5953dc1e34c95d08aefcb
-”
-dsrc/main/java/com/nhnacademy/jpa/repository/familyRelationship/FamilyRelationshipRepositoryImpl.java,b/8/b8b8cae238fd85798ff01e703b0306ee21bdceb9
 f
 6src/main/java/com/nhnacademy/jpa/config/JpaConfig.java,c/3/c351847c5a162bc00b47c4e4993a273647d018bb
 z
 Jsrc/main/java/com/nhnacademy/jpa/service/resident/ResidentServiceImpl.java,c/d/cd0a27bcb2e1fb36e33d52aa9f755b2954503ae3
 €
 Psrc/main/java/com/nhnacademy/jpa/repository/resident/ResidentRepositoryImpl.java,a/9/a9f65a4742eff4af26126f2cafc89a6329b2a59a
-k
-;src/main/java/com/nhnacademy/jpa/config/SecurityConfig.java,6/e/6e51e2583caba18b73cdb77b43eaae121df226c6
